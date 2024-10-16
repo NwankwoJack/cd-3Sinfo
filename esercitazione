@@ -1,0 +1,4 @@
+COSE UN PULL
+git pull è utilizzato in Git per aggiornare il repository locale con le modifiche apportate nel repository remoto
+COSE UN PUSH
+Il comando git push è utilizzato in Git per caricare le modifiche locali di un repository verso un repository remoto. In sostanza, git push invia le commit che hai effettuato localmente a un repository remoto, rendendole disponibili per gli altri collaboratori.
